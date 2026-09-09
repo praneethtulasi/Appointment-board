@@ -57,3 +57,7 @@ Appointments are currently stored in-memory for the session (no database yet), s
 License
 
 This project is for personal/educational use.
+
+
+
+ **  ![Appointment Board Screenshot](./screenshot.png)**
